@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@parcel/config-default": "^2.8.2",
+    "@parcel/transformer-glsl": "^2.8.2",
+    "lil-gui": "^0.17.0",
+    "three": "^0.148.0",
+    "three-extend-material": "^1.0.0"
+  }
+}
